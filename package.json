@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mohid2003.github.io/brainwave",
+  "homepage": "https://mohid2003.github.io/brainwave-gpt",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
